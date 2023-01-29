@@ -1,12 +1,8 @@
 {
-  "name": "react-typescript",
+  "name": "practice-work",
   "version": "1.0.0",
-  "description": "React and TypeScript example starter project",
-  "keywords": [
-    "typescript",
-    "react",
-    "starter"
-  ],
+  "description": "",
+  "keywords": [],
   "main": "src/index.tsx",
   "dependencies": {
     "@types/react-router-dom": "5.1.7",
